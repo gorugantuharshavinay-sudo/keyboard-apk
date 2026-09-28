@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Keyboard xmlns:android="http://schemas.android.com/apk/res/android" android:keyWidth="10%p" android:keyHeight="52dp" android:horizontalGap="1dp" android:verticalGap="1dp">
+    <Row>
+        <Key android:codes="3077" android:keyLabel="అ"/><Key android:codes="3078" android:keyLabel="ఆ"/><Key android:codes="3079" android:keyLabel="ఇ"/><Key android:codes="3080" android:keyLabel="ఈ"/><Key android:codes="3081" android:keyLabel="ఉ"/><Key android:codes="3082" android:keyLabel="ఊ"/><Key android:codes="3086" android:keyLabel="ఎ"/><Key android:codes="3087" android:keyLabel="ఏ"/><Key android:codes="3088" android:keyLabel="ఐ"/><Key android:codes="3090" android:keyLabel="ఒ"/>
+    </Row>
+    <Row>
+        <Key android:codes="3093" android:keyLabel="క"/><Key android:codes="3094" android:keyLabel="ఖ"/><Key android:codes="3095" android:keyLabel="గ"/><Key android:codes="3096" android:keyLabel="ఘ"/><Key android:codes="3098" android:keyLabel="చ"/><Key android:codes="3099" android:keyLabel="ఛ"/><Key android:codes="3100" android:keyLabel="జ"/><Key android:codes="3103" android:keyLabel="ట"/><Key android:codes="3105" android:keyLabel="డ"/><Key android:codes="3108" android:keyLabel="త"/>
+    </Row>
+    <Row>
+        <Key android:codes="3110" android:keyLabel="ద"/><Key android:codes="3112" android:keyLabel="న"/><Key android:codes="3114" android:keyLabel="ప"/><Key android:codes="3116" android:keyLabel="బ"/><Key android:codes="3118" android:keyLabel="మ"/><Key android:codes="3119" android:keyLabel="య"/><Key android:codes="3120" android:keyLabel="ర"/><Key android:codes="3122" android:keyLabel="ల"/><Key android:codes="3125" android:keyLabel="వ"/><Key android:codes="3128" android:keyLabel="స"/>
+    </Row>
+    <Row>
+        <Key android:codes="3129" android:keyLabel="హ"/><Key android:codes="3126" android:keyLabel="శ"/><Key android:codes="3127" android:keyLabel="ష"/><Key android:codes="3121" android:keyLabel="ళ"/><Key android:codes="3151" android:keyLabel="్"/><Key android:codes="3072" android:keyLabel="ం"/><Key android:codes="3073" android:keyLabel="ః"/><Key android:codes="32" android:keyLabel="SPACE" android:keyWidth="20%p"/><Key android:codes="-5" android:keyLabel="⌫" android:keyWidth="15%p"/><Key android:codes="-4" android:keyLabel="↵"/>
+    </Row>
+</Keyboard>
